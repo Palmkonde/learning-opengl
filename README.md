@@ -1,15 +1,15 @@
-# Learning OpenGL 🎮🖥️
+# Learning OpenGL
 
 This repository documents my journey into **graphics programming using OpenGL**.  
 Each concept or milestone is implemented as a **separate Git branch**, making it easy to explore topics step by step.
 
-## 📌 Purpose
+## Purpose
 
 - Learn the fundamentals of OpenGL
 - Practice graphics programming concepts
 - Keep a clear history of progress using branches
 
-## 🌿 Branch Structure
+## Branch Structure
 
 Each branch represents a small, focused project or learning milestone:
 
